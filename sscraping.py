@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[1]:
+
+
 # Import Splinter, BeautifulSoup, and Pandas
 from splinter import Browser
 from bs4 import BeautifulSoup as soup
@@ -101,3 +107,10 @@ if __name__ == "__main__":
 
     # If running as script, print scraped data
     print(scrape_all())
+
+
+# In[ ]:
+
+
+
+
