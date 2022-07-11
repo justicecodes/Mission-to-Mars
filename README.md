@@ -1,6 +1,6 @@
 # Mission-to-Mars
 
-## Summary
+## Summary:
 Information scraped ethically from different sources using Flask and Mongo to display a webpage of up-to-date news and images of Mars. Information displayed using HTML and the Bootstrap template. 
 
 ## References:
